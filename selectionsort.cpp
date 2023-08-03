@@ -53,3 +53,8 @@ int main()
     s.sort();
     s.printArray();
 }
+
+//time complexity 
+//best:omega(n^2)
+//avg:theta(n^2)
+//worst:theta(n^2)
