@@ -59,3 +59,8 @@ int main(){
     q.getInput();
     q.printArray();
 }
+
+//time complexity 
+//best:omega(nlogn)
+//avg:theta(nlogn)
+//worst:theta(n^2)
