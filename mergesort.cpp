@@ -83,3 +83,8 @@ int main()
     m.printArray();
     
 }
+
+//time complexity 
+//best:omega(nlogn)
+//avg:theta(nlogn)
+//worst:theta(nlogn)
