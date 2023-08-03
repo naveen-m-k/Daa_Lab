@@ -49,6 +49,6 @@ int main()
 
 
 //time complexity 
-//best:omega(n^2)
+//best:omega(n)
 //avg:theta(n^2)
-//worst:theta(n^2)
+//worst:oh(n^2)
